@@ -10,6 +10,6 @@ This repository contains essential supporting information data related to the re
 - **Molecules:** Ms2H3DETA, Ms3H2DETA, and Ms3DEOA.
 - **REG Coefficient Data:** .csv files containing REG coefficients are available in their respective folders.
 
-To learn more about the REG analysis, please visit the [REG.py repository](http://REG.py).
+To learn more about the REG analysis, please visit the **[REG.py repository](http://github.py](https://github.com/ljduarte/REG.py)**.
 
-For access to the original paper, please follow this link: **[Original Paper](https://chat.openai.com/c/insert_paper_url_here)**.
+For access to the original paper, please follow this link: **[Original Paper]()**.
